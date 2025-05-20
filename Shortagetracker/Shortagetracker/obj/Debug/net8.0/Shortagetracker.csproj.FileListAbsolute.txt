@@ -1,0 +1,14 @@
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/bin/Debug/net8.0/Shortagetracker
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/bin/Debug/net8.0/Shortagetracker.deps.json
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/bin/Debug/net8.0/Shortagetracker.runtimeconfig.json
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/bin/Debug/net8.0/Shortagetracker.dll
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/bin/Debug/net8.0/Shortagetracker.pdb
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/obj/Debug/net8.0/Shortagetracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/obj/Debug/net8.0/Shortagetracker.AssemblyInfoInputs.cache
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/obj/Debug/net8.0/Shortagetracker.AssemblyInfo.cs
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/obj/Debug/net8.0/Shortagetracker.csproj.CoreCompileInputs.cache
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/obj/Debug/net8.0/Shortagetracker.dll
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/obj/Debug/net8.0/refint/Shortagetracker.dll
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/obj/Debug/net8.0/Shortagetracker.pdb
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/obj/Debug/net8.0/Shortagetracker.genruntimeconfig.cache
+/home/emjay/Documents/For Test/Shortagetracker/Shortagetracker/obj/Debug/net8.0/ref/Shortagetracker.dll
